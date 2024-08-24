@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Guilherme Ferreira Brandão
 
-🎓 Estudante de **Engenharia de Software** na [Universidade de Brasília](https://www.unb.br/), apaixonado por tecnologia, desenvolvimento de software e inovação.
+🎓 Estudante de **Engenharia de Software** na Universidade de Brasília, apaixonado por tecnologia, desenvolvimento de software e inovação.
 
 ---
 
@@ -36,14 +36,14 @@
 ## 📂 Projetos em Destaque
 
 - 🚀 [QueTurma-FGA](https://github.com/QueTurma-FGA): Site de Avaliações de Professores.
-- 🧠 [Outro Projeto](https://github.com/Trabalho-final-OO/TRABALHO---OO): Sistema de Gestão acadêmica.
+- 🧠 [Trabalho-OO](https://github.com/Trabalho-final-OO/TRABALHO---OO): Sistema de Gestão acadêmica.
 
 ---
 
 ## 🎉 Conecte-se Comigo
 
 - 📧 Email: [guilhermeferreirabrandao969@gmail.com](guilhermeferreirabrandao969@gmail.com)
-- 💼 LinkedIn: [Guilherme Ferreira Brandão]([(https://www.linkedin.com/in/guilherme-brand%C3%A3o-579687181/)])
+- 💼 LinkedIn: [Guilherme Ferreira Brandão](https://www.linkedin.com/in/guilherme-brand%C3%A3o-579687181/)
 
 ---
 

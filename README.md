@@ -36,6 +36,7 @@
 ## 📂 Projetos em Destaque
 
 - 🚀 [QueTurma-FGA](https://github.com/QueTurma-FGA): Site de Avaliações de Professores.
+- 🚀 [Mini-Usinas](https://github.com/Guibs969/miniUsinas): Sistema de cadastro de Usinas de energia solar para o GDF.
 - 🧠 [Trabalho-OO](https://github.com/Trabalho-final-OO/TRABALHO---OO): Sistema de Gestão acadêmica.
 
 ---

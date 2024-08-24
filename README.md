@@ -46,8 +46,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/j6ZEXglqk5vmQ/giphy.gif" width="200" alt="Coding Gif">
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ⭐️ **Dê uma olhada nos meus repositórios e sinta-se à vontade para contribuir ou trocar uma ideia!**

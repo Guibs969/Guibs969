@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme Ferreira Brandão
+#  Olá, eu sou Guilherme Ferreira Brandão
 
 🎓 Estudante de **Engenharia de Software** na Universidade de Brasília, apaixonado por tecnologia, desenvolvimento de software e inovação.
 
@@ -6,9 +6,8 @@
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Inteligência Artificial**, **Sistemas em Java**.
-- 👨‍💻 Gosto de participar de hackathons e contribuir para projetos open-source.
-- 🎯 Estou sempre em busca de desafios que possam me ajudar a crescer como profissional e expandir minhas habilidades.
+- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Inteligência Artificial**, **Sistemas em Java**.
+- 👨‍💻 Estou sempre em busca de desafios que possam me ajudar a crescer como profissional e expandir minhas habilidades.
 
 ---
 
@@ -37,7 +36,7 @@
 
 - 🚀 [QueTurma-FGA](https://github.com/QueTurma-FGA): Site de Avaliações de Professores.
 - 🚀 [Mini-Usinas](https://github.com/Guibs969/miniUsinas): Sistema de cadastro de Usinas de energia solar para o GDF.
-- 🧠 [Trabalho-OO](https://github.com/Trabalho-final-OO/TRABALHO---OO): Sistema de Gestão acadêmica.
+- 🚀 [Trabalho-OO](https://github.com/Trabalho-final-OO/TRABALHO---OO): Sistema de Gestão acadêmica.
 
 ---
 

@@ -1,4 +1,5 @@
-#  Olá, eu sou Guilherme Ferreira Brandão
+![Let's Code](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIyMmV2ZTI4MXZsbTRvZjdtYWFkbWRldGZrajQ0bGN2aDBwMzV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.webp)
+#  Olá, eu sou Guilherme Brandão
 
 🎓 Estudante de **Engenharia de Software** na Universidade de Brasília, apaixonado por tecnologia, desenvolvimento de software e inovação.
 
@@ -6,8 +7,8 @@
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Inteligência Artificial**, **Sistemas em Java**.
-- 👨‍💻 Estou sempre em busca de desafios que possam me ajudar a crescer como profissional e expandir minhas habilidades.
+- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Web em geral **, **Banco de dados** .
+- 👨‍💻 Estou sempre fazendo projetos que possam me ajudar a crescer como profissional e expandir minhas habilidades.
 
 ---
 

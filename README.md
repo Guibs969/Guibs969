@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em Node JS, ReactE  PHP. 
+- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em Node JS, React e  PHP. 
 - 👨‍💻 Estou sempre fazendo projetos que possam me ajudar a crescer como profissional e expandir minhas habilidades.
 
 ---

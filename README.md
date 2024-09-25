@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Web em geral **, **Banco de dados** .
+- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em Node JS, ReactE  PHP. 
 - 👨‍💻 Estou sempre fazendo projetos que possam me ajudar a crescer como profissional e expandir minhas habilidades.
 
 ---

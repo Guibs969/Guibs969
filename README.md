@@ -1,4 +1,4 @@
-![Let's Code](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIyMmV2ZTI4MXZsbTRvZjdtYWFkbWRldGZrajQ0bGN2aDBwMzV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.webp)
+
 #  Olá, eu sou Guilherme Brandão
 
 🎓 Estudante de **Engenharia de Software** na Universidade de Brasília, apaixonado por tecnologia, desenvolvimento de software e inovação.

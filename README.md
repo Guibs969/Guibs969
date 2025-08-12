@@ -1,18 +1,18 @@
 
-
 # 👋 Olá, eu sou Guilherme Brandão
 
-🎓 **Estudante de Engenharia de Software** na Universidade de Brasília (UnB) e **Desenvolvedor Web e Mobile** com experiência prática em back-end e front-end. Apaixonado por tecnologia, inovação e soluções criativas para problemas do dia a dia.
+🎓 **Estudante de Engenharia de Software** na Universidade de Brasília (UnB) e **Desenvolvedor Web e Mobile**.
+💡 Apaixonado por transformar ideias em soluções digitais funcionais e inovadoras.
 
 ---
 
 ## 🚀 Sobre Mim
 
-* 💻 Experiência em **desenvolvimento web** e **mobile**, atuando com **PHP + Laravel**, **ReactJs**, **React Native** e **Node.js**.
-* 🐳 Familiaridade com **Docker**, **Dockerfile** e **Docker-Compose** para ambientes de desenvolvimento e produção.
-* 🛢️ Trabalho com **PostgreSQL** e versionamento de código em **GitLab** e **GitHub**.
-* 🌱 Sempre aprendendo novas tecnologias e aberto a desafios que expandam minhas habilidades.
-* ⚡ Entusiasta de **projetos práticos** com impacto no mundo real.
+Ao longo da minha trajetória acadêmica e profissional, desenvolvi projetos que fortaleceram minhas habilidades técnicas e ampliaram minha experiência prática em **desenvolvimento web** e **mobile**.
+Durante meu estágio no **Ministério da Educação (MEC)**, atuei tanto no **back-end**, com **PHP + Laravel**, quanto no **front-end**, com **ReactJs** e **React Native**, participando de grandes iniciativas como o projeto **Pé de Meia**, onde contribui com melhorias e correções em funcionalidades críticas.
+
+Também possuo experiência com **Docker** para criação e gerenciamento de ambientes, versionamento com **GitLab/GitHub** e bancos de dados relacionais como **PostgreSQL**.
+Meu foco é entregar **soluções eficientes, escaláveis e de fácil manutenção**, sempre com atenção aos detalhes e às boas práticas de desenvolvimento.
 
 ---
 
@@ -36,15 +36,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guibs969&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guibs969&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
-
----
-
 ## 📂 Projetos em Destaque
 
 * 🌟 [**QueTurma-FGA**](https://github.com/QueTurma-FGA) — Site de avaliações de professores (**NodeJs, TypeScript, Prisma**).
@@ -55,10 +46,27 @@
 
 ---
 
-## 🎉 Conecte-se Comigo
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guibs969&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guibs969&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Web/Mobile** contribuindo para o desenvolvimento de sistemas robustos e inovadores, participando ativamente de todas as etapas — da concepção à entrega final — e sempre buscando aprender e evoluir junto à equipe.
+
+---
+
+## 📬 Conecte-se Comigo
 
 * 📧 Email: [guilhermeferreirabrandao969@gmail.com](mailto:guilhermeferreirabrandao969@gmail.com)
 * 💼 LinkedIn: [Guilherme Ferreira Brandão](https://www.linkedin.com/in/guilherme-brand%C3%A3o-579687181/)
+
+
 
 
 

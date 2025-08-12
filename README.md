@@ -1,7 +1,4 @@
-Beleza, Guilherme!
-Vou criar um novo README para o seu GitHub mantendo a parte visual bacana do antigo, mas atualizando com as informações do seu currículo novo — incluindo suas experiências mais recentes, tecnologias, e projetos.
 
----
 
 # 👋 Olá, eu sou Guilherme Brandão
 

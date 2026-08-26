@@ -105,20 +105,3 @@ Também possuo experiência no **Ministério da Educação**, atuando com PHP, L
 `Jan. de 2023 – 2028`
 
 ---
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guibs969&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guibs969&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guibs969&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-   <b>Vamos conversar?</b> <a href="mailto:guilhermeferreirabrandao969@gmail.com">guilhermeferreirabrandao969@gmail.com</a>
-</p>

@@ -1,73 +1,124 @@
+<h1 align="center">Olá, eu sou Guilherme Brandão </h1>
 
-# 👋 Olá, eu sou Guilherme Brandão
+<h3 align="center">Desenvolvedor de Software | UnB</h3>
 
-🎓 **Estudante de Engenharia de Software** na Universidade de Brasília (UnB) e **Desenvolvedor Web e Mobile**.
-💡 Apaixonado por transformar ideias em soluções digitais funcionais e inovadoras.
+<p align="center">
+  <a href="https://github.com/Guibs969">
+    <img src="https://img.shields.io/badge/GitHub-Guibs969-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:guilhermeferreirabrandao969@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Localização-Brasília--DF-blue?style=for-the-badge" />
+</p>
 
----
-
-## 🚀 Sobre Mim
-
-Ao longo da minha trajetória acadêmica e profissional, desenvolvi projetos que fortaleceram minhas habilidades técnicas e ampliaram minha experiência prática em **desenvolvimento web** e **mobile**.
-Durante meu estágio no **Ministério da Educação (MEC)**, atuei tanto no **back-end**, com **PHP + Laravel**, quanto no **front-end**, com **ReactJs** e **React Native**, participando de grandes iniciativas como o projeto **Pé de Meia**, onde contribui com melhorias e correções em funcionalidades críticas.
-
-Também possuo experiência com **Docker** para criação e gerenciamento de ambientes, versionamento com **GitLab/GitHub** e bancos de dados relacionais como **PostgreSQL**.
-Meu foco é entregar **soluções eficientes, escaláveis e de fácil manutenção**, sempre com atenção aos detalhes e às boas práticas de desenvolvimento.
-
----
-
-## 💼 Habilidades Técnicas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square" alt="C" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guibs969&label=Visualizações&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📂 Projetos em Destaque
+### 🚀 Sobre mim
 
-* 🌟 [**QueTurma-FGA**](https://github.com/QueTurma-FGA) — Site de avaliações de professores (**NodeJs, TypeScript, Prisma**).
-* ⚡ [**Mini-Usinas**](https://github.com/Guibs969/miniUsinas) — Sistema de cadastro de usinas de energia solar para o GDF (**C**).
-* 🎓 [**Gest-OO**](https://github.com/Trabalho-final-OO/TRABALHO---OO) — Sistema de gestão acadêmica orientado a objetos (**Java**).
-* 🚀 **Foguete-P1** — Aplicativo para visualização de dados de um foguete (**Flutter**).
-* 🖥️ **Gesh** — Aplicativo para gestão de computadores, com acompanhamento e visualização detalhada (**ReactNative, PHP+Laravel, PostgreSQL**).
+Graduando em **Engenharia de Software** pela **Universidade de Brasília (UnB)** e pesquisador na mesma instituição em projetos de **Criação de Chips**, atuando com **RTL** e linguagens de descrição de hardware (**VHDL**).
 
----
+Na **Mútua**, consolidei o domínio de praticamente todo o fluxo de desenvolvimento de software, liderando e participando da criação de diversos projetos *Front-end* e *Back-end* ponta a ponta — incluindo a etapa de deploy. Nos últimos 12 meses, mantive uma média de **39 chamados resolvidos por mês**, com destaque por proatividade e boa convivência em equipe, reconhecido não só pelo time de TI, mas também pelos setores de Benefícios e Recursos Humanos.
 
-## 📈 Estatísticas do GitHub
+Também possuo experiência no **Ministério da Educação**, atuando com PHP, Laravel e React em sistemas de impacto nacional, como o **Pé de Meia**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guibs969&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guibs969&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
+-  Engenharia de Software — UnB (2023 – 2028)
+-  Pesquisa em Criação de Chips (RTL / VHDL)
+-  Estágio atual: Desenvolvimento de Software na **Mútua**
+-  Sempre aprendendo algo novo em Front-end, Back-end e Automação
+-  Contato: guilhermeferreirabrandao969@gmail.com | (61) 9 9918-5864
 
 ---
 
-## 🎯 Objetivo Profissional
+### 🛠️ Habilidades Técnicas
 
-Atuar como **Desenvolvedor Web/Mobile** contribuindo para o desenvolvimento de sistemas robustos e inovadores, participando ativamente de todas as etapas — da concepção à entrega final — e sempre buscando aprender e evoluir junto à equipe.
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-004080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Front-end & Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Back-end & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Conecte-se Comigo
+###  Experiência Profissional
 
-* 📧 Email: [guilhermeferreirabrandao969@gmail.com](mailto:guilhermeferreirabrandao969@gmail.com)
-* 💼 LinkedIn: [Guilherme Ferreira Brandão](https://www.linkedin.com/in/guilherme-brand%C3%A3o-579687181/)
+**Estágio em Desenvolvimento de Software — Mútua**
+`15/09/2025 – 14/09/2026`
+- Desenvolvimento de soluções full stack (Front-end e Back-end)
+- NodeJS, PHP, TypeScript, JavaScript, Banco SQL
+- Automatizações com Python e uso de ferramentas de Inteligência Artificial
+- Design de APIs REST e RESTful
+- Resolução de chamados, produção e apresentação em reuniões
 
+**Estágio em Desenvolvimento de Software — Ministério da Educação**
+`2024 – 2025`
+- Backend em PHP + Laravel
+- Frontend com ReactJs / React Native
+- Docker, Dockerfile e Docker-Compose
+- Banco de dados em PostgreSQL
+- Contribuições para sistemas de impacto nacional, como o **Pé de Meia**
 
+---
 
+###  Formação Acadêmica
 
+**Engenharia de Software** — Universidade de Brasília (UnB)
+`Jan. de 2023 – 2028`
 
+---
 
+###  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guibs969&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guibs969&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guibs969&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+   <b>Vamos conversar?</b> <a href="mailto:guilhermeferreirabrandao969@gmail.com">guilhermeferreirabrandao969@gmail.com</a>
+</p>

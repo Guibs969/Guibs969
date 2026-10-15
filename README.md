@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou Guilherme Brandão </h1>
+<h1 align="center">
+  Guilherme Brandão </h1>
 
 <h3 align="center">Desenvolvedor de Software | UnB</h3>
 
@@ -18,19 +19,6 @@
 
 ---
 
-### 🚀 Sobre mim
-
-Graduando em **Engenharia de Software** pela **Universidade de Brasília (UnB)** e pesquisador na mesma instituição em projetos de **Criação de Chips**, atuando com **RTL** e linguagens de descrição de hardware (**VHDL**).
-
-Na **Mútua**, consolidei o domínio de praticamente todo o fluxo de desenvolvimento de software, liderando e participando da criação de diversos projetos *Front-end* e *Back-end* ponta a ponta — incluindo a etapa de deploy. Nos últimos 12 meses, mantive uma média de **39 chamados resolvidos por mês**, com destaque por proatividade e boa convivência em equipe, reconhecido não só pelo time de TI, mas também pelos setores de Benefícios e Recursos Humanos.
-
-Também possuo experiência no **Ministério da Educação**, atuando com PHP, Laravel e React em sistemas de impacto nacional, como o **Pé de Meia**.
-
--  Engenharia de Software — UnB (2023 – 2028)
--  Pesquisa em Criação de Chips (RTL / VHDL)
--  Estágio atual: Desenvolvimento de Software na **Mútua**
--  Sempre aprendendo algo novo em Front-end, Back-end e Automação
--  Contato: guilhermeferreirabrandao969@gmail.com | (61) 9 9918-5864
 
 ---
 
